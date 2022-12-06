@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    label 'worker_node2'
+    label 'jenkinsnode1'
   }
 
     stages {
